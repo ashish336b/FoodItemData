@@ -1,2 +1,5 @@
 # FoodItemData
-Scraping of Food item data 
+##Installation
+Step 1: npm install
+Step 2 : node run.js
+
