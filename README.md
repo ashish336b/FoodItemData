@@ -1,6 +1,6 @@
 # FoodItemData
-##Installation
+# Installation
 
-Step 1: ``npm install
-Step 2 : ``node run.js
+``` npm install
+node run.js ```
 
